@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CategoryDbService.cs" />
+    <Compile Include="DataAccessLayer.cs" />
+    <Compile Include="Department.cs" />
+    <Compile Include="Employes.cs" />
+    <Compile Include="ProductDbService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
